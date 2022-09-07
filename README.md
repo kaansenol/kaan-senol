@@ -1,3 +1,5 @@
+<img src="https://github.com/kaansenol/kaan-senol/blob/main/kaanSenol-problemsolver-voyogerConsulting.png.png" alt="banner that says Kaan Senol - project manager, problem solver">
+
 # kaan-senol
 Info about what I am doing and what I have done so far...
 
